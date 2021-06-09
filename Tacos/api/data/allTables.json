@@ -1,0 +1,58 @@
+{
+  "tables": [
+    {
+      "name": "Table A",
+      "capacity": 4,
+      "isAvailable": true,
+      "location": "Inside"
+    },
+    {
+      "name": "Table B",
+      "capacity": 4,
+      "isAvailable": true,
+      "location": "Inside"
+    },
+    {
+      "name": "Table C",
+      "capacity": 4,
+      "isAvailable": true,
+      "location": "Inside"
+    },
+    {
+      "name": "Table D",
+      "capacity": 6,
+      "isAvailable": true,
+      "location": "Inside"
+    },
+    {
+      "name": "Table E",
+      "capacity": 8,
+      "isAvailable": true,
+      "location": "Outside"
+    },
+    {
+      "name": "Table F",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Outside"
+    },
+    {
+      "name": "Table G",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Outside"
+    },
+    {
+      "name": "Table H",
+      "capacity": 4,
+      "isAvailable": true,
+      "location": "Outside"
+    },
+    {
+      "name": "Table I",
+      "capacity": 6,
+      "isAvailable": true,
+      "location": "Outside"
+    }
+  ]
+}
